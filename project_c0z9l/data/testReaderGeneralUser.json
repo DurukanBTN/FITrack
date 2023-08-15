@@ -1,0 +1,57 @@
+{
+    "customStatistics": [{
+        "unit": "thisIsNull",
+        "name": "BMI",
+        "value": 22
+    }],
+    "exercises": [
+        {
+            "name": "Bench press",
+            "weight": 80,
+            "rep": 8
+        },
+        {
+            "name": "Squat",
+            "weight": 90,
+            "rep": 9
+        },
+        {
+            "name": "Deadlift",
+            "weight": 100,
+            "rep": 10
+        }
+    ],
+    "calender": [{
+        "number": 1,
+        "customStatistics": [{
+            "unit": "thisIsNull",
+            "name": "BMI",
+            "value": 22
+        }],
+        "exercises": [
+            {
+                "name": "Bench press",
+                "weight": 80,
+                "rep": 8
+            },
+            {
+                "name": "Squat",
+                "weight": 90,
+                "rep": 9
+            },
+            {
+                "name": "Deadlift",
+                "weight": 100,
+                "rep": 10
+            }
+        ],
+        "name": "Durukan",
+        "calorie": 3000,
+        "weight": 80,
+        "height": 190
+    }],
+    "name": "Durukan",
+    "calorie": 3000,
+    "weight": 80,
+    "height": 190
+}
